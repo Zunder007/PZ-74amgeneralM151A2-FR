@@ -1,0 +1,12 @@
+Tooltip_FR = {
+	Tooltip_item_runflats = "Pneus militaires universels qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M151A2runflats = "Pneus militaires M151A2 qui n'éclateront presque jamais mais perdront de la traction lorsqu'ils se dégradent.",
+	Tooltip_item_M151A2Tarp1 = "Article cosmétique, il peut couvrir votre tête mais il ne vous protégera pas des éléments.",
+	Tooltip_item_M151A2Bumper1 = "Fixez-le à l'avant du M151A2 pour protéger le capot et le moteur.",
+	Tooltip_item_M151A2Windshield2 = "Vous pouvez utiliser un scalpel pour couper des pare-brise robustes ordinaires afin de fabriquer un pare-brise de remplacement M151A2.",
+	Tooltip_item_M151A2sideWindow2 = "Vous pouvez utiliser des tôles pour fabriquer des vitres blindées de remplacement pour le M151A2.",
+	Tooltip_item_M151A2Door2 = "Protège le joueur des zombies. N'oubliez pas d'installer également des vitres. Nécessite une armure d'armature comme base pour l'installation.",
+	Tooltip_item_M151A2Barrier1 = "Article cosmétique, barrière de coffre en métal pour coffre M151A2 (peut inclure un calibre 50).",
+	Tooltip_item_M151A2WindshieldArmor1 = "Fixez-le à l'avant du M151A2 pour protéger le pare-brise.",
+	Tooltip_item_M151A2CabArmor1 = "Objet cosmétique, base pour d'autres composants d'armure.",
+}
