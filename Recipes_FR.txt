@@ -1,0 +1,14 @@
+Recipes_FR = {
+	Recipe_Convert_M151A2_RunFlat_Tire = "Convertir Pneu anti-crevaison",
+	Recipe_Convert_Standard_RunFlat_Tire = "Convertir Pneu anti-crevaison",
+	Recipe_Make_M151A2_Armored_Left_Barrier = "Fabriquer Barrière blindée gauche",
+	Recipe_Make_M151A2_Armored_Left_Door = "Fabriquer Blindage de portière gauche",
+	Recipe_Make_M151A2_Armored_Right_Barrier = "Fabriquer Barrière blindée droite",
+	Recipe_Make_M151A2_Armored_Right_Door = "Fabriquer Blindage de portière droite",
+	Recipe_Make_M151A2_Armored_Side_Window = "Fabriquer Blindage de vitre latérale",
+	Recipe_Make_M151A2_Bumper = "Fabriquer Pare-chocs",
+	Recipe_Make_M151A2_Cab_Armor = "Fabriquer Blindage d'armature",
+	Recipe_Make_M151A2_Tarp = "Fabriquer Bâche",
+	Recipe_Make_M151A2_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_M151A2_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+}
