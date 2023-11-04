@@ -1,0 +1,14 @@
+IG_UI_EN = {
+	IGUI_VehicleName74amgeneralM151A2 = "'74 AM General M151A2 MUTT",
+	IGUI_VehicleName74amgeneralM151A2MP = "'74 AM General M151A2 Military Police",
+	IGUI_VehicleName74amgeneralM151A2Burnt = "'74 AM General M151A2 MUTT Brûlé",
+
+	IGUI_VehiclePartM151A2Tarp = "Bâche arrière souple",
+	IGUI_VehiclePartM151A2WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartM151A2CabArmor = "Blindage d'armature",
+	IGUI_VehiclePartM151A2BarrierLeft = "Barrière d'armature gauche",
+	IGUI_VehiclePartM151A2BarrierRight = "Barrière d'armature droite",
+	IGUI_VehiclePartM151A2Bumper = "Pare-chocs",
+	IGUI_VehiclePartM151A2SpareTire = "Pneu de secours",
+	IGUI_VehiclePartM151A2Trunk = "Coffre",
+}
