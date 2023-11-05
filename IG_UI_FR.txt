@@ -11,4 +11,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartM151A2Bumper = "Pare-chocs",
 	IGUI_VehiclePartM151A2SpareTire = "Pneu de secours",
 	IGUI_VehiclePartM151A2Trunk = "Coffre",
+
+	IGUI_CraftCategory_M151A2 = "'74 AM General M151A2 MUTT",
 }
