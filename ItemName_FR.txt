@@ -17,4 +17,5 @@ ItemName_FR = {
 	ItemName_Base.M151A2WindshieldArmor1_Item = "M151A2 Blindage de pare-brise",
 	ItemName_Base.M998Bullbar1_Item = "M998 Petit pare-buffle",
 	ItemName_Base.V102Tire2 = "M151A2 Pneu anti-crevaison",
+	ItemName_Base.V100Tire2 = "Pneu anti-crevaison",
 }
